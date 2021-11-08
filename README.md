@@ -1,3 +1,7 @@
+# Notes
+
+For the thesis template, for each chapter the author has implemented the templates of their own.
+
 # Writing a thesis in Latex
 (Version 2.0, Last Update 04.15.2017)
 
